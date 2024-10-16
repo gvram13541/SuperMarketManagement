@@ -1,0 +1,6 @@
+# Ignore the .vscode directory
+.vscode/
+
+# Other common ignores (optional)
+*.o
+my_program
